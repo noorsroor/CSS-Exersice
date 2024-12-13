@@ -1,5 +1,5 @@
 # CSS-Exersice
-Welcome to the **CSS-Exercise**! This repository contains various HTML and CSS files designed to help you practice CSS styling and improve front-end web development skills.
+Welcome to the **CSS-Exercise**! This repository contains various HTML and CSS files designed to practice in CSS styling and improve front-end web development skills.
 
 ---
 
