@@ -1,0 +1,28 @@
+.box {
+    background-color: #FFFFF1;
+    border-right: 4px black solid;
+    height: 450px;
+    width: 750px;   
+}
+
+.box span {
+    background-color: #EAEAED;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.box div {
+    font-weight: bold;
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+    overflow-y: scroll;
+    height: 60px;
+    margin-left: 10px;
+}
+
+.box h4 {
+    padding: 10px;
+}
