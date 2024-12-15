@@ -7,8 +7,8 @@ table {
     border-spacing: 5px;
 }
 
-table:last-of-type {
-    margin-left: 20px;
+table {
+    margin-right: 20px;
 }
 
 td {
